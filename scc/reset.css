@@ -1,0 +1,23 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.d_flex{
+    display: flex;
+}
+
+.align_center{
+    align-items: center;
+}
+
+.flex_wrap{
+    flex-wrap: wrap;
+}
